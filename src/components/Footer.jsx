@@ -28,7 +28,7 @@ const Footer = (props) => {
       </Col>
 
       <Col xs={12} className="text-center smaller font-italic text-white my-2">
-        © 2020 Copyright: studioghibliwiki.com
+        © 2020 Copyright: avatarthelastairbender.com
       </Col>
     </Row>
   );

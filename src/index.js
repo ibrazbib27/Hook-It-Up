@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import StudioGhibliWiki from "./components/StudioGhibliWiki";
+import AvatarHome from "./components/AvatarHome";
 import "bootstrap/dist/css/bootstrap.min.css";
 
-ReactDOM.render(<StudioGhibliWiki />, document.getElementById("root"));
+ReactDOM.render(<AvatarHome />, document.getElementById("root"));
